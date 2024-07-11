@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 # from PIL import ImageGrab
  
-path = 'ImageAttendence'
+path = 'ImageAttendance'
 images = []
 classNames = []
 myList = os.listdir(path)
